@@ -2,6 +2,9 @@
 Proyecto: App para asitencia de Eventos 
 Para este proyecto se estableciòn un modelo relacional de 4 entidades: Usuarios, Asistentes, Eventos y una tabla intermedia Eventos_has_Asistentes.
 
+Link Video:
+https://clipchamp.com/watch/6rJXhSYtFfi
+
 ![modeloder](modeloder.png)
 
 Como se puede apreciar en la imagen tenemos las siguientes relaciones:
