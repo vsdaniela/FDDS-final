@@ -11,8 +11,7 @@ Vemos una tabla intermedia donde encontraremos Quiènes (ASistentes) asistieron 
 Esto para cuando querramos consultar las personas que asistiràn a cierto Evento.
 
 LA idea de la aplicaciòn es que ciertos usuarios que estèn en la BD puedan crear eventos y en estos registrar a las personas que asistiràn, y asì tener
-toda esta informaciòn en la BD y poder hacer cualquier clase de consulta. Se espera tambièn saber cuàntas personas asistieron a cierto evento y tener porcentajes de estos, ver a què 
-clase de eventos se asistiò màs, etc.
+toda esta informaciòn en la BD y poder hacer cualquier clase de consulta. Se espera tambièn saber cuàntas personas asistieron a cierto evento y tener porcentajes de estos, ver a què  clase de eventos se asistiò màs, etc.
 
 El framework que se usò fue Android Studio, lenguaje de programaciòn Java.
 
@@ -22,7 +21,7 @@ EL modelo ER de nuestra BD se hizo en MySQL Workbench
 
 ![Workbench](https://programaenlinea.net/wp-content/uploads/2020/01/sql-1024x576.jpg)
 
-Para el levantamineto de la BD se trabajò 000webhost, un servicio de hosting gratuito donde se implmentò la BD para realizar nuestras diferentes funciones CRUD las cuales 
+Para el levantamineto de la BD se trabajò con 000webhost, un servicio de hosting gratuito donde se implmentò la BD para realizar nuestras diferentes funciones CRUD las cuales 
 fueros implementadas en archivos php.
 
 
@@ -30,4 +29,25 @@ fueros implementadas en archivos php.
 
 
 
+Imagenes Interfaz APP
+ Inicio de sesiòn, consulta con la tabla Usuarios
+ 
+![modelo](images/1.jpg)
 
+Menù para realizar acciones sobre Eventos o Asistentes
+
+![modelo](images/2.jpg)
+
+Aquì se podràn visualizar los eventos y se tiene las opciones de eliminar, actualizar y agregar eventos
+
+![modelo](images/3.jpg)
+
+De igual manera para Asistentes, se podràn registrar nuevos, eliminar y actualizar
+
+![modelo](images/4.jpg)
+
+Formularios para la creaciòn y es el mismo modelo que se aplica para eliminaciòn y actualizaciòn
+
+![modelo](images/5.jpg)
+
+![modelo](images/6.jpg)
